@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'lib-antonio-lib',
+  selector: 'antonio-lib',
   template: `
     <p>
       antonio-lib works!
